@@ -1,0 +1,10 @@
+
+.gradio/
+venv/
+__pycache__/
+*.pyc
+.env
+.cache/
+*.safetensors
+*.pt
+*.pth
