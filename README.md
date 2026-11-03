@@ -94,3 +94,15 @@ AI & Data Science Engineering Student
 ## 📄 Note
 
 This project is developed for educational purposes. Predictions and recommended solutions are intended as preliminary guidance and should not replace expert agricultural advice.
+
+## 📸 Project Output
+
+### 1. Plant Leaf Image Upload
+
+![Plant Disease Detection Interface](screenshots/app-interface.png)
+
+### 2. Disease Detection Result
+
+![Plant Disease Detection Result](screenshots/disease-result.png)
+
+The application identified Strawberry - Leaf scorch with a displayed confidence score of 98.30%.
